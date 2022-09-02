@@ -21,3 +21,19 @@ rma <- exprs(eset)
 
 # Boxplot to view the expression of samples
 boxplot(rma)
+
+# Pre-processing/Normalization of the chips: Mas5.0, RMA, Quantile Normalization
+
+# Install package oligo
+if (!require("BiocManager", quietly = TRUE)) install.packages("BiocManager");BiocManager::install("oligo")
+
+# Applying RMA normalizaton function
+library(oligo)
+celFiles = list.celfiles()
+affyRaw <- read.celfiles(celFiles)
+eset <- rma(affyRaw)
+boxplot(eset)
+
+
+
+
