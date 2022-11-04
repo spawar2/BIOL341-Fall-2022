@@ -25,6 +25,26 @@ write.csv(list, "new_file.csv")
 
 write.table(list, "new_file.txt")
 
+# Generate some dummy tree data
+
+text.string <- "(((((((cow, pig),whale),(bat,(lemur,human))),(robin,iguana)),coelacanth),gold_fish),shark);"
+
+# read tree using read.tree function
+
+vert.tree<-read.tree(text=text.string)
+
+plot(vert.tree,no.margin=TRUE,edge.width=2,
+main="This is phylogenetic plot")
+
+roundPhylogram(vert.tree)
+
+# Generate a unrooted tree plot 
+
+plot(unroot(vert.tree),type="unrooted",no.margin=TRUE,lab4ut="axial", edge.width=2)
+
+# Print edges and nodes in your tree
+
+str(vert.tree)
 
 
 
