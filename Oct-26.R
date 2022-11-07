@@ -46,6 +46,10 @@ plot(unroot(vert.tree),type="unrooted",no.margin=TRUE,lab4ut="axial", edge.width
 
 str(vert.tree)
 
+# Write the tree in a text file
+
+write.tree(vert.tree,file="example.txt")
+
 
 
 
