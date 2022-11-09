@@ -50,7 +50,9 @@ str(vert.tree)
 
 write.tree(vert.tree,file="example.txt")
 
+# Reading the exported data
 
+Data <- read.table("example.txt", header = FALSE, sep = "", dec = ".")
 
 
 
