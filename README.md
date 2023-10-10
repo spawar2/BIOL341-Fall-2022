@@ -1,4 +1,4 @@
-# BIOL341-Fall-2022
+[# BIOL341-Fall-2022 3 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-biol341)
 
 Youtube Teaching Channel: https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV
 
