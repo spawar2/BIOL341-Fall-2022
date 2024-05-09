@@ -18,4 +18,4 @@ https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.
 [Github:](https://github.com/spawar2/BTEC-620-Spring-2023)
 
 Blast, Sequence alignments (Margaret Dayhoff, PAM, Blossom scoring matrices, global & local alignment): https://youtu.be/Lx1jkr3UKwA
-*Graduate Class (Masters & Ph.D. Level)
+*Graduate Class (Masters & Ph.D. Level) https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
