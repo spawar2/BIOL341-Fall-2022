@@ -1,4 +1,4 @@
-Learning Objectives [# BIOL341-Fall-2022 3 Credits Applied Bioinformatics](https://pawar1550.wixsite.com/claflin-courses/copy-of-biol341)
+Learning Objectives [# BIOL341-Fall-2022 3 Credits Applied Bioinformatics](https://pawar1550.wixsite.com/claflin-courses/copy-of-biol341).
 Intro to Digital Logic Design and Lab (Emphasis on digital computer hardware and software, fundamentals of Boolean algebra (MATH111), switching and switching functions, applications to logic design, Digital logic gates, minimization of Boolean function, logic design with arrays, finite state model for sequential state minimization, design abstractions, representations, process, Karnaugh maps, K-map simplification, combinatorial components, multiplexers, decoders, selectors, ROMs, PLAs, hybrid components, sequential logic, Mealy/Moore finite state machines, state minimization, encoding, control unit design). Gene Expression Omnibus (GEO) datasets mining, Microarray data analysis: Read, Pre-processing/Normalization (Affy, Oligo, Limma-RMA, Quantile, Mas5.0), Visualization: Heat maps, box plots, Fold change expression analysis, Gene Set Enrichment Analysis (GSEA), Pathways and protein downstream interactome analysis.
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 
@@ -18,6 +18,6 @@ https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.
 [Github:](https://github.com/spawar2/BTEC-620-Spring-2023)
 
 Blast, Sequence alignments (Margaret Dayhoff, PAM, Blossom scoring matrices, global & local alignment): https://youtu.be/Lx1jkr3UKwA
-*Graduate Class (Masters & Ph.D. Level) https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
+*Graduate Class (Masters & Ph.D. Level). https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/
-[Claflin University, Orangeburg, South Carolina, USA](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
+[Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
