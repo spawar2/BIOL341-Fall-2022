@@ -11,6 +11,7 @@ Intro to Digital Logic Design and Lab (Emphasis on digital computer hardware an
 [Bioinformatics:](https://youtu.be/kIxlNUeG-38)
 [Bioinformatics:](https://youtu.be/bmWCnSMhUDk)
 [Bioinformatics:](https://youtu.be/7UOA1hC2V5k)
+![download](https://github.com/user-attachments/assets/6db72e57-aceb-4694-bd90-ae9ae9d2e669)
 
 [Phylogenetic Analysis:](https://youtu.be/IMIP4la-K84)
 https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
